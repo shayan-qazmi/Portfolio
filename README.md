@@ -23,7 +23,7 @@
 
 ## About
 
-This is my personal portfolio website showcasing my skills, projects, and resume. It is built with modern web technologies and designed to be fully responsive. Feel free to explore it at [shayanhaider.tech]([https://shayan-portfolio.vercel.app/](https://syedshayanhaiderportfolio.netlify.app/)).  
+This is my personal portfolio website showcasing my skills, projects, and resume. It is built with modern web technologies and designed to be fully responsive. Feel free to explore it at (https://syedshayanhaiderportfolio.netlify.app/)).  
 
 Original layout and idea inspired by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
 
