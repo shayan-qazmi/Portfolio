@@ -1,9 +1,10 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Syed Shayan Haider Portfolio - v1.0<br/>
+  <a href="https://shayan-portfolio.vercel.app/" target="_blank">shayanhaider.tech</a>
 </h2>
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Portfolio Demo" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
@@ -13,64 +14,69 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/shayanhaider/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/shayanhaider/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    🔹 <a href="https://github.com/shayanhaider/Portfolio/issues">Report a Bug</a> &nbsp; &nbsp;
+    🔹 <a href="https://github.com/shayanhaider/Portfolio/issues">Request a Feature</a>
 </h3>
 
-## TL;DR
+---
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## About
+
+This is my personal portfolio website showcasing my skills, projects, and resume. It is built with modern web technologies and designed to be fully responsive. Feel free to explore it at [shayanhaider.tech](https://shayan-portfolio.vercel.app/).  
+
+Original layout and idea inspired by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
+
+---
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+- **React.js** – Frontend library for building UI  
+- **Node.js & Express.js** – Backend for API handling  
+- **CSS3 & React-Bootstrap** – Styling and responsive design  
+- **VSCode** – Development environment  
+- **Vercel** – Deployment platform  
 
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+---
 
 ## Features
 
-**📖 Multi-Page Layout**
+- **📖 Multi-Page Layout** – Navigate between About, Skills, Projects, and Contact sections easily.  
+- **🎨 Modern Styling** – Customizable colors and clean UI design.  
+- **📱 Fully Responsive** – Works perfectly on mobile, tablet, and desktop.  
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
-
-**📱 Fully Responsive**
+---
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+### Prerequisites
+Make sure you have `Node.js` and `Git` installed.
 
-## 🛠 Installation and Setup Instructions
+### Installation
+1. Clone this repository:  
+```bash
+git clone https://github.com/shayanhaider/Portfolio.git
 
-1. Installation: `npm install`
+2.Navigate into the project folder:
+cd Portfolio
 
-2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+3.Install dependencies:
+npm install
 
-## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+4.Start the development server:
+npm start
 
-### Show your support
 
-Give a ⭐ if you like this website!
+5.Open http://localhost:3000
+ to view it in the browser. The page will reload if you make edits.
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Usage:
+All components are inside /src/components/.
+You can edit your information, projects, and styling from there.
