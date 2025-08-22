@@ -1,6 +1,6 @@
 <h2 align="center">
   Syed Shayan Haider Portfolio - v1.0<br/>
-  <a href="https://shayan-portfolio.vercel.app/" target="_blank">shayanhaider.tech</a>
+  <a href="https://shayan-portfolio.vercel.app/" target="_blank"></a>
 </h2>
 <br/>
 
