@@ -1,6 +1,6 @@
 <h2 align="center">
   Syed Shayan Haider Portfolio - v1.0<br/>
-  <a href="https://shayan-portfolio.vercel.app/" target="_blank"></a>
+  <a href="https://shayan-portfolio.vercel.app/" target="_blank](https://syedshayanhaiderportfolio.netlify.app/"></a>
 </h2>
 <br/>
 
@@ -23,7 +23,7 @@
 
 ## About
 
-This is my personal portfolio website showcasing my skills, projects, and resume. It is built with modern web technologies and designed to be fully responsive. Feel free to explore it at (https://syedshayanhaiderportfolio.netlify.app/)).  
+This is my personal portfolio website showcasing my skills, and resume. It is built with modern web technologies and designed to be fully responsive. Feel free to explore it at (https://syedshayanhaiderportfolio.netlify.app/)).  
 
 Original layout and idea inspired by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
 
