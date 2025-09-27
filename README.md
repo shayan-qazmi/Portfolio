@@ -56,19 +56,22 @@ Make sure you have `Node.js` and `Git` installed.
 1. Clone this repository:  
 ```bash
 git clone https://github.com/shayanhaider/Portfolio.git
-
+```
 2.Navigate into the project folder:
+```
 cd Portfolio
 
-
+```
 3.Install dependencies:
+```
 npm install
 
-
+```
 4.Start the development server:
+```
 npm start
 
-
+```
 5.Open http://localhost:3000
  to view it in the browser. The page will reload if you make edits.
 
