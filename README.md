@@ -55,7 +55,7 @@ Make sure you have `Node.js` and `Git` installed.
 ### Installation
 1. Clone this repository:  
 ```bash
-git clone https://github.com/shayanhaider/Portfolio.git
+ git clone https://github.com/shayan-qazmi/Portfolio.git
 ```
 2.Navigate into the project folder:
 ```
