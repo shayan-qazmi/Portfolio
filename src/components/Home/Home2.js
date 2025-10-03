@@ -19,27 +19,22 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I enjoy turning ideas into code and building things that actually work.
+              I enjoy turning ideas into reality by building things that truly work.
               <br />
-              <br />I am fluent in
+              <br />
+              I have a strong passion for both{" "}
               <i>
-                <b className="purple"> JavaScript, Python, and HTML5. </b>
-              </i>
+                <b className="purple">design and development</b>
+              </i>{" "}
+              and love crafting user experiences that are not only functional but
+              also visually appealing.
               <br />
               <br />
-              My fields of interest include developing &nbsp;
+              With an eye for creativity and detail, I aim to bring together{" "}
               <i>
-                <b className="purple">Web Technologies and APIs</b> using
-                <b className="purple"> Flask</b>, along with modern front-end
-                development.
-              </i>
-              <br />
-              <br />
-              I also enjoy working with
-              <i>
-                <b className="purple"> React.js, Next.js, Bootstrap, and Tailwind CSS </b>
-              </i>
-              to create clean and scalable user experiences.
+                <b className="purple">aesthetics and technology</b>
+              </i>{" "}
+              to create meaningful and engaging digital products.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
